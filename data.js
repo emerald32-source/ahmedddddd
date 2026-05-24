@@ -1,4 +1,4 @@
-const clientCustomName = "كوكو و تيا";
+const clientCustomName = "كارمن و تيا";
 const clientGender = "f";
 const clientEidiyaCode = "EID-500-VIP";
 const clientEnvelopeText = `كل عام وانت بكل الخير يا كوكو🥰🥰
